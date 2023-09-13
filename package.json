@@ -1,0 +1,28 @@
+{
+  "name": "adhdsort",
+  "version": "1.0.1",
+  "description": "Implements a blazingly fast O(???) sorting algorithm",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VexVexVex/adhdsort.git"
+  },
+  "keywords": [
+    "sort",
+    "blazing",
+    "fast"
+  ],
+  "author": "Alex Buko-Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VexVexVex/adhdsort/issues"
+  },
+  "homepage": "https://github.com/VexVexVex/adhdsort#readme"
+}
